@@ -1,0 +1,10 @@
+pandas
+numpy
+customtkinter
+scikit-learn
+kagglehub
+os
+re
+
+Datasets from IMDB, Kaggle,
+#use this command to install the requirements.txt file : pip install -r requirements.txt
