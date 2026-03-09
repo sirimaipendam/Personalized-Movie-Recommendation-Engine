@@ -1,0 +1,10 @@
+# Python cache (generated when you run the script)
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
